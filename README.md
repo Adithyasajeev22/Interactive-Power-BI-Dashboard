@@ -108,6 +108,6 @@ The objective of these dashboards is to transform raw datasets into actionable i
 
 ---
 # Author
-Adithya v s
+**Adithya v s**
 
 ### ⭐ If you found this repository helpful, consider giving it a star
