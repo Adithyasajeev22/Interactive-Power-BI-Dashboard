@@ -107,7 +107,8 @@ A business intelligence dashboard developed to analyze revenue, profit, regions,
 The objective of these dashboards is to transform raw datasets into actionable insights through interactive visualizations, enabling stakeholders to monitor performance, identify trends, and make informed business decisions.
 
 ---
-# Author
-**Adithya v s**
+# 👨‍💻 Author
+
+### Adithya v s
 
 ### ⭐ If you found this repository helpful, consider giving it a star
