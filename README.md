@@ -27,11 +27,7 @@ An interactive dashboard designed to analyze sales performance, profit, product 
 
 ---
 
-### Dashboard Preview
 
-![Home Appliances Dashboard](HOME-APPLIANCES-DASHBOARD(1).png)
-
----
 
 ## 🎬 Netflix Analysis Dashboard
 
@@ -54,11 +50,7 @@ An interactive dashboard built to explore Netflix content, genre distribution, r
 
 ---
 
-### Dashboard Preview
 
-![Netflix Dashboard](NETFLIX_ANALYSIS_DASHBOARD(1).png)
-
----
 
 ## 📈 Sales Performance Dashboard
 
@@ -81,11 +73,7 @@ A business intelligence dashboard developed to analyze revenue, profit, regions,
 
 ---
 
-### Dashboard Preview
 
-![Sales Performance Dashboard](SALES-PERFORMANCE-DASHBOARD(1).png)
-
----
 
 ## 🛠️ Technologies Used
 
